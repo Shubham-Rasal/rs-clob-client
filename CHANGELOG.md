@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.3](https://github.com/Polymarket/rs-clob-client/compare/v0.4.2...v0.4.3) - 2026-02-10
+
+### Other
+
+- *(cargo)* bump rand from 0.9.2 to 0.10.0 ([#232](https://github.com/Polymarket/rs-clob-client/pull/232))
+- *(cargo)* bump httpmock from 0.8.2 to 0.8.3 ([#237](https://github.com/Polymarket/rs-clob-client/pull/237))
+- *(cargo)* bump reqwest from 0.13.1 to 0.13.2 ([#236](https://github.com/Polymarket/rs-clob-client/pull/236))
+- *(cargo)* bump aws-sdk-kms from 1.98.0 to 1.99.0 ([#235](https://github.com/Polymarket/rs-clob-client/pull/235))
+- *(cargo)* bump criterion from 0.8.1 to 0.8.2 ([#234](https://github.com/Polymarket/rs-clob-client/pull/234))
+- *(cargo)* bump alloy from 1.5.2 to 1.6.3 ([#233](https://github.com/Polymarket/rs-clob-client/pull/233))
+- *(cargo)* bump aws-config from 1.8.12 to 1.8.13 ([#231](https://github.com/Polymarket/rs-clob-client/pull/231))
+- *(cargo)* bump anyhow from 1.0.100 to 1.0.101 ([#230](https://github.com/Polymarket/rs-clob-client/pull/230))
+
 ## [0.4.2](https://github.com/Polymarket/rs-clob-client/compare/v0.4.1...v0.4.2) - 2026-01-31
 
 ### Added
